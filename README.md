@@ -1,0 +1,1 @@
+Created a card component with different styles. Created multiple styles only using css. Used the power of flex-box to change layout.
